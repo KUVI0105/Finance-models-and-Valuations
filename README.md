@@ -46,7 +46,7 @@ Designed for:
 
 ## 🔗 Quick Links
 
-- 📄 [View Summary PDF](file:///C:/Users/SID/AppData/Local/Microsoft/Windows/INetCache/IE/4IXO1HN6/Giga_Health_Valuation_Summary[1].pdf)
+- 📄 [View Summary PDF](file:///C:/Users/SID/AppData/Local/Microsoft/Windows/INetCache/IE/4IXO1HN6/Giga_Health_Valuation_Summary.pdf)
 - 📊 [Download Excel Model](https://1drv.ms/x/c/4b56b7cd70d4fd96/ETPM2hjGT_tFnNRxB9sch2kBdlxuHYpMIcIj4GgSKQ92kQ?e=lrZBO3)
 - 🧠 [Connect on LinkedIn](www.linkedin.com/in/kv-siddharth)
 
